@@ -1,4 +1,3 @@
-# google-hackathon-geminiagent-cohost-ai
 
 # 🎙 CoHostAI
 
